@@ -6,10 +6,15 @@ tags:
 - 工具
 - Github
 categories:
+- 工具相关
 - Git
 ---
 
 ## Git的安装与配置
+
+Git的配置、Git命令介绍、Git的具体使用流程
+
+<!--more -->
 
 ### （1） Git的配置
 

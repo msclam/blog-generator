@@ -20,6 +20,10 @@ categories:
 
 # LeetCode <<剑指offer>>
 
+排序、哈希、二分（查找）、搜索（BFS、DFS）、动态规划、kmp、贪心、回溯、分治
+
+<!-- more -->
+
 ## 03 数组的重复的数字
 
 ```java

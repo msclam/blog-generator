@@ -7,7 +7,6 @@ tags:
 - Github
 categories:
 - 工具相关
-- Git
 ---
 
 ## Git的安装与配置
